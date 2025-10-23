@@ -1,0 +1,17 @@
+MIN_SCORE = 1
+
+MAX_SCORE = 10
+
+MAX_USERNAME_LENGTH = 150
+
+MAX_EMAIL_LENGTH = 254
+
+MAX_CATEGORY_AND_GENRE_LENGTH = 256
+
+MAX_CONFIRMATION_CODE = 20
+
+FORBIDDEN_USERNAME = 'me'
+
+USERNAME_REGEX = r'^[\w.@+-]+\Z'
+
+SCORE_ERROR = 'Оценка должна быть от {min} до {max} баллов.'
