@@ -29,7 +29,7 @@
 1. Клонировать репозиторий и перейти в него в командной строке:
 
     ```bash
-        git clone <https://github.com/destroytxt/api-yamdb>
+        git clone <https://github.com/owl-ik/Yamdb>
     ```
 
 2. Cоздать виртуальное окружение:
